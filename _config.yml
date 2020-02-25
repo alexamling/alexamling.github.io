@@ -30,7 +30,7 @@ twitter_username: n/a
 github_username:  alexamling
 
 # Build settings
-remotetheme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 

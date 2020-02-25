@@ -202,7 +202,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.11.3)
+    minitest (5.14.0)
     multipart-post (2.1.1)
     nokogiri (1.10.8-x64-mingw32)
       mini_portile2 (~> 2.4.0)
@@ -245,7 +245,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (~> 204)
+  github-pages
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.12)
   tzinfo (~> 1.2)
